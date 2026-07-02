@@ -1,6 +1,6 @@
 Hello,
 
-I make slop code for a living.
+I make sloppy flutter code for a living.
 
 Goodbye
 <!---
